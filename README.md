@@ -1,6 +1,6 @@
 # SignalForge-Azure-Infra
 
-## Infrastructure Architecture
+# Infrastructure Architecture
 
 +---------------------------------------------------------------------------------+
 |                                 AZURE VIRTUAL NETWORK (VNet)                    |
